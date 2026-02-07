@@ -1,7 +1,7 @@
 # Predicting Gallstone Disease Using Decision Tree Modeling
 
 ## Project Overview
-This project uses a Decision Tree Classifier to predict gallstone presence in patients based on clinical and demographic data. The workflow includes data inspection, preprocessing, model training, evaluation, and visualization of decision-making processes.
+This project uses a decision tree to predict gallstone presence in patients based on clinical and demographic data. The workflow includes data inspection, preprocessing, model training, evaluation, and visualization of decision-making processes.
 
 ## Features
 - Handles missing data
