@@ -5,7 +5,6 @@ This project uses a Decision Tree Classifier to predict gallstone presence in pa
 
 ## Features
 - Handles missing data
-- Encodes categorical variables
 - Splits data into training and test sets
 - Trains and evaluates a Decision Tree model
 - Visualizes the decision tree for interpretability
@@ -14,7 +13,7 @@ This project uses a Decision Tree Classifier to predict gallstone presence in pa
 The dataset contains patient demographics and medical history features relevant to gallstone prediction.
 
 ## Results
-- Model accuracy: XX%
+- Model accuracy: 67%
 - Confusion matrix, classification report, and tree visualization included in the notebook
 
 ## How to Run
